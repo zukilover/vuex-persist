@@ -1,0 +1,24 @@
+{
+  "name": "vuex-persist",
+  "authors": [
+    "Arnav Gupta"
+  ],
+  "description": "Vuex plugin that enables you to save the state of your app to a persisted storage like Cookies or localStorage.",
+  "main": "vuex-persist.js",
+  "keywords": [
+    "vuex-persist",
+    "vuex"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/championswimmer/vuex-persist",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
